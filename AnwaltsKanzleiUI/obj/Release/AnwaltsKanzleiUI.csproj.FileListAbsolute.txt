@@ -1,0 +1,16 @@
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\bin\Release\AnwaltsKanzleiUI.exe.config
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\bin\Release\AnwaltsKanzleiUI.exe
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\bin\Release\AnwaltsKanzleiUI.pdb
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\bin\Release\AnwaltsKanzleiLibrary.dll
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\bin\Release\AnwaltsKanzleiLibrary.pdb
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.csprojAssemblyReference.cache
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.AnwaltsKanzleiForm.resources
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.Info.resources
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.Kalender.resources
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.Properties.Resources.resources
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.Termine.resources
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.csproj.GenerateResource.cache
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.csproj.CoreCompileInputs.cache
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.csproj.CopyComplete
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.exe
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiUI\obj\Release\AnwaltsKanzleiUI.pdb

@@ -1,0 +1,6 @@
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiLibrary\bin\Release\AnwaltsKanzleiLibrary.dll
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiLibrary\bin\Release\AnwaltsKanzleiLibrary.pdb
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiLibrary\obj\Release\AnwaltsKanzleiLibrary.csprojAssemblyReference.cache
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiLibrary\obj\Release\AnwaltsKanzleiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiLibrary\obj\Release\AnwaltsKanzleiLibrary.dll
+C:\Users\busca\Documents\FH Kiel\WS20-21\Wirtschaftsinformatik-Projekt\app\AnwaltsKanzleiLibrary\obj\Release\AnwaltsKanzleiLibrary.pdb
