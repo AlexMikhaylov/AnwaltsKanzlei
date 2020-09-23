@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using AnwaltsKanzleiLibrary;
+using System.Globalization;
 
 namespace AnwaltsKanzleiUI
 {
@@ -28,8 +29,9 @@ namespace AnwaltsKanzleiUI
             
             monthCalendar1.MaxSelectionCount = 1;
             
+            string data = monthCalendar1.SelectionRange.Start.ToShortDateString();            
 
-            return monthCalendar1.SelectionRange.Start.ToShortDateString();
+            return DateTime.Parse(data).ToString("yyyy-MM-dd");
         }
 
         /// <summary>
