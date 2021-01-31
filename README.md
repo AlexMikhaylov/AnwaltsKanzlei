@@ -1,5 +1,5 @@
 # Anwaltskanzlei
-Mein C#-Projekt an der FH-Kiel im WS2020/2021
+Mein C#-Projekt an der FH-Kiel im SoSe2020
 
 **<ins>Technische Spezifikationen:</ins>**  
 Programmiersprache: C# (vorgegeben)  
